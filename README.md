@@ -1,4 +1,5 @@
 # Brainwallet-with-balance-check
+#Works on Python. You need a file on your computer where you can enter your passwords, the number is not limited, a txt file. After starting the program, specify the path. The program was created for educational purposes and for checking your own passwords and addresses; I am not responsible for any illegal actions.
 #Brainwallet with balance checker to create your wallets and check for passphrase mismatches.  Please transfer a small thank you note to any address convenient for you.   BTC 1CXbKRk49NM6sr7ZdkrWM3bZkg6f1kWFAP  USDT tRC20 TWX4JhKesrXRBhTb6D5LEWSuguSufhLwUR   ETH ERC20 0xbd142ead5bfe251ce4ae63a539494bbf8aac4f0c
 import hashlib
 import binascii
